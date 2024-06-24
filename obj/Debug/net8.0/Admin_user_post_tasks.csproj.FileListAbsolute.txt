@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\bin\Debug\net8.0\Admin_user_post_tasks.exe
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\bin\Debug\net8.0\Admin_user_post_tasks.deps.json
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\bin\Debug\net8.0\Admin_user_post_tasks.runtimeconfig.json
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\bin\Debug\net8.0\Admin_user_post_tasks.dll
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\bin\Debug\net8.0\Admin_user_post_tasks.pdb
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.AssemblyInfo.cs
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.dll
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\refint\Admin_user_post_tasks.dll
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.pdb
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\Admin_user_post_tasks.genruntimeconfig.cache
+C:\Users\User\source\repos\Admin_user_post_tasks\Admin_user_post_tasks\obj\Debug\net8.0\ref\Admin_user_post_tasks.dll
